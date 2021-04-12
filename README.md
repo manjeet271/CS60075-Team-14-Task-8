@@ -7,7 +7,8 @@ More details: https://competitions.codalab.org/competitions/25770
 
 # Project
  To run the program 'CS60075_Team_14.ipynb' follow the follwoing steps:
- 1. Download the file 'CS60075_Team_14.ipynb'.
- 2. Upload the file to google drive and open the file with the Google Colab.
- 3. Change the runtime type to GPU.
- 4. Run the code and the evaluated TSV files will be saved in a folder named 'Results'.
+ 1. Download the zip file from code->download zip file
+ 2. Extract the file 'CS60075_Team_14.ipynb'.
+ 3. Upload the file to google drive and open the file with the Google Colab.
+ 4. Change the runtime type to GPU.
+ 5. Run the code and the evaluated TSV files will be saved in a folder named 'Results'.
